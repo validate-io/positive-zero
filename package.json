@@ -26,7 +26,13 @@
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "is",
+    "isvalid",
+    "positive",
+    "zero",
+    "iszero"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/positive-zero/issues"
